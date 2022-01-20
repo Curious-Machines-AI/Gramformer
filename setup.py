@@ -7,7 +7,7 @@ setuptools.setup(
     author_email="",
     description="Gramformer",
     long_description="A framework for detecting, highlighting and correcting grammatical errors on natural language text",
-    url="https://github.com/PrithivirajDamodaran/Gramformer.git",
+    url="https://github.com/Curious-Machines-AI/Gramformer",
     packages=setuptools.find_packages(),
     install_requires=['transformers', 'sentencepiece==0.1.95', 'fuzzywuzzy==0.18.0',  'tokenizers==0.10.2', 'fsspec==2021.5.0', 'errant'],
     classifiers=[
